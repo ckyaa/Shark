@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-23 15:46:20</sys_created_on>
+        <sys_id>5aa40089932bc790f74bb6597bba1008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2015457_shark_sharks.x_2015457_shark.admin</sys_name>
+        <sys_package display_value="Shark" source="x_2015457_shark">72244c09932bc790f74bb6597bba108e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark">72244c09932bc790f74bb6597bba108e</sys_scope>
+        <sys_security_acl display_value="x_2015457_shark_sharks">9ea40089932bc790f74bb6597bba1001</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5aa40089932bc790f74bb6597bba1008</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-23 15:46:20</sys_updated_on>
+        <sys_user_role display_value="x_2015457_shark.admin" name="x_2015457_shark.admin">b2244c09932bc790f74bb6597bba109f</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

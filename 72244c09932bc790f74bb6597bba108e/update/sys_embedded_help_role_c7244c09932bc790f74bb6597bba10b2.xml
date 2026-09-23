@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_2015457_shark.admin" name="x_2015457_shark.admin">b2244c09932bc790f74bb6597bba109f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-23 15:44:12</sys_created_on>
+        <sys_id>c7244c09932bc790f74bb6597bba10b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b2244c09932bc790f74bb6597bba109f</sys_name>
+        <sys_package display_value="Shark" source="x_2015457_shark">72244c09932bc790f74bb6597bba108e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark">72244c09932bc790f74bb6597bba108e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c7244c09932bc790f74bb6597bba10b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-23 15:44:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
